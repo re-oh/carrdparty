@@ -5,4 +5,5 @@ Too run cardparty on your machine you must edit the code on your own.
 ## Written By: ##
 Lukasz Dabrowski
 Eduard Multianov
+
 ## Contributers: ##
